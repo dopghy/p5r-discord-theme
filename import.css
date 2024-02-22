@@ -40,9 +40,9 @@
   --theme: var(--p5-primary-fix);
 
   /* New Main Color */
-  --p5-primary: radial-gradient(circle, #c31e1e, #af0000);
-  --p5-primary-fix: #af0000; /* I came back to find p5-primary broken? radial-gradient specifically just seems to not function anymore. */
-  --p5-primary-accent: rgba(220, 20, 60, 0.9);
+  --p5-primary: radial-gradient(circle, #c31e1e, #0f0785);
+  --p5-primary-fix: #0f0785; /* I came back to find p5-primary broken? radial-gradient specifically just seems to not function anymore. */
+  --p5-primary-accent: rgba(15, 7, 133 0.9);
   /* its crimson with alpha */
   --hp-green: rgba(0, 221, 178, 0.90);
   --mp-pink: rgba(255, 102, 237, 0.867);
